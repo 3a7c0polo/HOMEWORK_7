@@ -1,0 +1,12 @@
+#li{
+    font-size: 17;
+font-weight: bold;
+color: orange
+}
+.text-bg-danger {
+  color: #fff !important;
+  background-color: RGBA(var(--bs-danger-rgb), var(--bs-bg-opacity, 1)) !important;
+}
+#body{
+    background-image: url(Death-Stranding-2-1-1536x864.jpeg);
+}
